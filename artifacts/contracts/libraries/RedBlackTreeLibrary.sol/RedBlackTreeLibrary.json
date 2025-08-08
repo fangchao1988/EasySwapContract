@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "RedBlackTreeLibrary",
+  "sourceName": "contracts/libraries/RedBlackTreeLibrary.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "CannotFindNextEmptyKey",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "CannotFindPrevEmptyKey",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "CannotInsertEmptyKey",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "CannotInsertExistingKey",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "CannotRemoveEmptyKey",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "CannotRemoveMissingKey",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x60808060405234601757603a9081601d823930815050f35b600080fdfe600080fdfea26469706673582212209123ec68569983c4f5dcf0ad50fba1c0a3bcaf32e11266bcf7195dbc0bb3765e64736f6c63430008140033",
+  "deployedBytecode": "0x600080fdfea26469706673582212209123ec68569983c4f5dcf0ad50fba1c0a3bcaf32e11266bcf7195dbc0bb3765e64736f6c63430008140033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

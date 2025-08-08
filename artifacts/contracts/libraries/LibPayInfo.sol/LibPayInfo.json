@@ -1,0 +1,50 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "LibPayInfo",
+  "sourceName": "contracts/libraries/LibPayInfo.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "MAX_PROTOCOL_SHARE",
+      "outputs": [
+        {
+          "internalType": "uint128",
+          "name": "",
+          "type": "uint128"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "TOTAL_SHARE",
+      "outputs": [
+        {
+          "internalType": "uint128",
+          "name": "",
+          "type": "uint128"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "TYPE_HASH",
+      "outputs": [
+        {
+          "internalType": "bytes32",
+          "name": "",
+          "type": "bytes32"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608080604052346100195760dc908161001f823930815050f35b600080fdfe6080806040526004361015601257600080fd5b600090813560e01c90816364d4c81914606e57508063a931208f1460575763bf41e16f14603e57600080fd5b8060031936011260545760206040516127108152f35b80fd5b508060031936011260545760206040516103e88152f35b90508160031936011260a257807f4ec7427a1de4d1086f228665556ea9a0a419f75736571115e79d40a51f96cc5f60209252f35b5080fdfea2646970667358221220c2785f44fdc452e84dbeb4d1846f2c72bf3dad076dacbb7d9f9a1dec87cbeb3b64736f6c63430008140033",
+  "deployedBytecode": "0x6080806040526004361015601257600080fd5b600090813560e01c90816364d4c81914606e57508063a931208f1460575763bf41e16f14603e57600080fd5b8060031936011260545760206040516127108152f35b80fd5b508060031936011260545760206040516103e88152f35b90508160031936011260a257807f4ec7427a1de4d1086f228665556ea9a0a419f75736571115e79d40a51f96cc5f60209252f35b5080fdfea2646970667358221220c2785f44fdc452e84dbeb4d1846f2c72bf3dad076dacbb7d9f9a1dec87cbeb3b64736f6c63430008140033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

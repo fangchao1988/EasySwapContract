@@ -1,0 +1,50 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "LibOrder",
+  "sourceName": "contracts/libraries/LibOrder.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "ASSET_TYPEHASH",
+      "outputs": [
+        {
+          "internalType": "bytes32",
+          "name": "",
+          "type": "bytes32"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "ORDERKEY_SENTINEL",
+      "outputs": [
+        {
+          "internalType": "OrderKey",
+          "name": "",
+          "type": "bytes32"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "ORDER_TYPEHASH",
+      "outputs": [
+        {
+          "internalType": "bytes32",
+          "name": "",
+          "type": "bytes32"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x608080604052346100195760f7908161001f823930815050f35b600080fdfe6080806040526004361015601257600080fd5b600090813560e01c9081633c75f2e61460aa57508063f973a2091460755763fcd0d9d314603e57600080fd5b8060031936011260725760206040517f631e462bf410c643f967c13284911d970aa0a06097a11e4a1a7ad9549175d78a8152f35b80fd5b508060031936011260725760206040517f7e112775c49cc2f5d597cc604eac1616afa66ee95cc7c4d46a97ca90b539ca338152f35b90508160031936011260bd576020918152f35b5080fdfea264697066735822122086d40ea6ba9bc9b725e5d1824fb67949eb618c73bee50165e5505aaaa222416364736f6c63430008140033",
+  "deployedBytecode": "0x6080806040526004361015601257600080fd5b600090813560e01c9081633c75f2e61460aa57508063f973a2091460755763fcd0d9d314603e57600080fd5b8060031936011260725760206040517f631e462bf410c643f967c13284911d970aa0a06097a11e4a1a7ad9549175d78a8152f35b80fd5b508060031936011260725760206040517f7e112775c49cc2f5d597cc604eac1616afa66ee95cc7c4d46a97ca90b539ca338152f35b90508160031936011260bd576020918152f35b5080fdfea264697066735822122086d40ea6ba9bc9b725e5d1824fb67949eb618c73bee50165e5505aaaa222416364736f6c63430008140033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
